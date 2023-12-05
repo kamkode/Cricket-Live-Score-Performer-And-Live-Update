@@ -1,5 +1,8 @@
-Crickfront - Cricket Live Scoreboard and Commentary System
-This project, Crickfront, combines the power of Angular CLI version 17.0.0 for the frontend and Spring Boot with Spring Data JPA for the backend. The system provides a dynamic Cricket Live Scoreboard and Commentary experience.
+Cricket Live Scoreboard and Commentary System
+
+
+
+This project, Cricket combines the power of Angular CLI version 17.0.0 for the frontend and Spring Boot with Spring Data JPA for the backend. The system provides a dynamic Cricket Live Scoreboard and Commentary experience.
 
 Development Environment
 Angular CLI Version: 17.0.0
@@ -36,4 +39,4 @@ Feel free to customize this project to suit your needs and contribute to its enh
 
 
 
-Play the Demo Video: https://drive.google.com/file/d/1Ci8pVJDmF8c_IDSWtEmK6ienJwb0OEBT/view?usp=sharing
+Play the Demo Video: https://drive.google.com/file/d/1Ci8pVJDmF8c_IDSWtEmK6ienJwb0OEBT/view
